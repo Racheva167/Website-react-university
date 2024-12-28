@@ -20,6 +20,10 @@ nav ul li{
     margin: 5px 20px;
     font-size: 16px;
 }
+ul li:hover{
+    font-size: 17px;
+    transition: 0.5s;
+}
 .dark-nav{
     background: #212ea0;
     transition: 0.5s;
